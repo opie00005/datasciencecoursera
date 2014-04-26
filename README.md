@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-first assignment in GitHub
+This is a markdown file
